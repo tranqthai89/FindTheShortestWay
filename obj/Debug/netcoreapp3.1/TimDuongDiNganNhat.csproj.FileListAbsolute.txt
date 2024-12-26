@@ -1,0 +1,13 @@
+D:\WorkSpace\TimDuongDiNganNhat\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.exe
+D:\WorkSpace\TimDuongDiNganNhat\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.deps.json
+D:\WorkSpace\TimDuongDiNganNhat\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.runtimeconfig.json
+D:\WorkSpace\TimDuongDiNganNhat\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.runtimeconfig.dev.json
+D:\WorkSpace\TimDuongDiNganNhat\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.dll
+D:\WorkSpace\TimDuongDiNganNhat\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.pdb
+D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.csprojAssemblyReference.cache
+D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.AssemblyInfoInputs.cache
+D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.AssemblyInfo.cs
+D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.csproj.CoreCompileInputs.cache
+D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.dll
+D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.pdb
+D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.genruntimeconfig.cache
