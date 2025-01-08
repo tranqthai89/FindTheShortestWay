@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSpace\\TimDuongDiNganNhat\\TimDuongDiNganNhat.csproj": {}
+    "D:\\WorkSpace\\MyWorks\\FindTheShortestWay\\TimDuongDiNganNhat.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpace\\TimDuongDiNganNhat\\TimDuongDiNganNhat.csproj": {
+    "D:\\WorkSpace\\MyWorks\\FindTheShortestWay\\TimDuongDiNganNhat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace\\TimDuongDiNganNhat\\TimDuongDiNganNhat.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\MyWorks\\FindTheShortestWay\\TimDuongDiNganNhat.csproj",
         "projectName": "TimDuongDiNganNhat",
-        "projectPath": "D:\\WorkSpace\\TimDuongDiNganNhat\\TimDuongDiNganNhat.csproj",
+        "projectPath": "D:\\WorkSpace\\MyWorks\\FindTheShortestWay\\TimDuongDiNganNhat.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace\\TimDuongDiNganNhat\\obj\\",
+        "outputPath": "D:\\WorkSpace\\MyWorks\\FindTheShortestWay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

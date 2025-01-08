@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace FindTheShortestWay
 {
@@ -31,6 +32,9 @@ namespace FindTheShortestWay
 				new int[]{ 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}
 			};
 
+			Stopwatch _stopwatch = new Stopwatch();
+			_stopwatch.Start();
+
 			List<List<MyLocation>> _listTotalWaysCanMove = new List<List<MyLocation>>();
 			MyLocation _startLocation = new MyLocation(17, 1);
 
@@ -43,6 +47,9 @@ namespace FindTheShortestWay
             //    Console.WriteLine(">>> " + _node.listChild[i].point);
             //}
             _node.GetWay(ref _listTotalWaysCanMove);
+
+			_stopwatch.Stop();
+			Console.WriteLine("Time Process: " + _stopwatch.ElapsedMilliseconds + " ms");
 
 			if (_listTotalWaysCanMove.Count == 0)
 			{

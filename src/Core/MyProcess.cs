@@ -16,9 +16,11 @@ namespace FindTheShortestWay
 				if (_node.matrix[_node.row][_node.col] == MyConstant.ID_END) { // tới đích
 					_node.isMax = true;
 					_node.point = 1;
+					_node.matrix = null;
 					return;
 				}
 				if (_node.matrix[_node.row][_node.col] == MyConstant.ID_WALL || _node.matrix[_node.row][_node.col] == MyConstant.ID_START || _node.matrix[_node.row][_node.col] == MyConstant.ID_LAND_CHECKED) {
+					_node.matrix = null;
 					return;
 				}
 				if (_node.matrix[_node.row][_node.col] == MyConstant.ID_LAND) {

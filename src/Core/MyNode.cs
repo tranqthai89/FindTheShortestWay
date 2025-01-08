@@ -4,7 +4,6 @@ namespace FindTheShortestWay {
 	public class MyNode {
 		public int[][] matrix;
 		public List<MyLocation> myWay;
-		public int level;
 		public int row, col;
 		public int point;
 		public bool isRoot;
@@ -16,7 +15,6 @@ namespace FindTheShortestWay {
 		public MyNode(int[][] _matrix, int _row, int _col, bool _isRoot = false) {
 			isRoot = _isRoot;
 			isMax = false;
-			level = 0;
 			row = _row;
 			col = _col;
 			point = 0;
@@ -24,8 +22,8 @@ namespace FindTheShortestWay {
 			MAX_BUFFER = 0;
 			listChild = null;
 
-			matrix = MyConstant.ShalowCopy(_matrix);
-			myWay = new List<MyLocation>();
+            matrix = MyConstant.ShalowCopy(_matrix);
+            myWay = new List<MyLocation>();
 		}
 
 		public short Size() { return count; }

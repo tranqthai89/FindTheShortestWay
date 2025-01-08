@@ -11,3 +11,16 @@ D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.cspro
 D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.dll
 D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.pdb
 D:\WorkSpace\TimDuongDiNganNhat\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.genruntimeconfig.cache
+D:\WorkSpace\MyWorks\FindTheShortestWay\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.exe
+D:\WorkSpace\MyWorks\FindTheShortestWay\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.deps.json
+D:\WorkSpace\MyWorks\FindTheShortestWay\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.runtimeconfig.json
+D:\WorkSpace\MyWorks\FindTheShortestWay\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.runtimeconfig.dev.json
+D:\WorkSpace\MyWorks\FindTheShortestWay\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.dll
+D:\WorkSpace\MyWorks\FindTheShortestWay\bin\Debug\netcoreapp3.1\TimDuongDiNganNhat.pdb
+D:\WorkSpace\MyWorks\FindTheShortestWay\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.csprojAssemblyReference.cache
+D:\WorkSpace\MyWorks\FindTheShortestWay\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.AssemblyInfoInputs.cache
+D:\WorkSpace\MyWorks\FindTheShortestWay\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.AssemblyInfo.cs
+D:\WorkSpace\MyWorks\FindTheShortestWay\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MyWorks\FindTheShortestWay\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.dll
+D:\WorkSpace\MyWorks\FindTheShortestWay\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.pdb
+D:\WorkSpace\MyWorks\FindTheShortestWay\obj\Debug\netcoreapp3.1\TimDuongDiNganNhat.genruntimeconfig.cache
